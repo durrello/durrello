@@ -143,6 +143,12 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
     <td align="center">⏱️<br><b>30min → 2min</b><br>MTTD Reduction</td>
     <td align="center">💸<br><b>70%</b><br>Cost Savings</td>
   </tr>
+  <tr>
+    <td align="center">🌐<br><b>5,000+</b><br>Sites Hosted</td>
+    <td align="center">🛡️<br><b>Cloudflare</b><br>CDN · WAF · DDoS</td>
+    <td align="center">⚡<br><b>Cloud Run</b><br>Serverless · scale-to-zero</td>
+    <td align="center">🧪<br><b>Load-tested</b><br>to scale further</td>
+  </tr>
 </table>
 
 ---
