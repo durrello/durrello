@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Infrastructure Engineer · AWS Community Builder · DevOps Educator**
 
-Multi-cloud DevOps Engineer with 4+ years of hands-on DevOps experience and nearly a decade in technology — designing, automating, and operating production-grade infrastructure across AWS, GCP, and Azure.
+Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of hands-on DevOps experience — designing, automating, and operating production-grade infrastructure across AWS, GCP, and Azure. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
 
 I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta — helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
 
@@ -155,11 +155,16 @@ lifecycle — provision → build → deliver → operate → secure.
 | Project | What it does |
 | --- | --- |
 | [terraform-aws-reference-architecture](https://github.com/durrello/terraform-aws-reference-architecture) | Progressive Terraform examples — single EC2 → full VPC + private RDS, CI-validated |
+| [gcp-landing-zone-terraform](https://github.com/durrello/gcp-landing-zone-terraform) | Production GCP landing zone — folders, shared VPC, Cloud NAT, org policies |
+| [aws-multi-account-organization](https://github.com/durrello/aws-multi-account-organization) | AWS Organizations, OUs, SCP guardrails, centralized CloudTrail |
 | [gitops-kubernetes-platform](https://github.com/durrello/gitops-kubernetes-platform) | ArgoCD app-of-apps delivering Helm workloads to Kubernetes |
 | [cicd-pipeline-templates](https://github.com/durrello/cicd-pipeline-templates) | Reusable GitHub Actions (build/test/scan/sign/deploy) with cosign signing |
 | [observability-stack](https://github.com/durrello/observability-stack) | Prometheus + Grafana + Loki + Tempo + Alertmanager as code |
+| [kubernetes-monitoring-helm-chart](https://github.com/durrello/kubernetes-monitoring-helm-chart) | Helm chart shipping an app with ServiceMonitor + alerts |
 | [vault-on-kubernetes](https://github.com/durrello/vault-on-kubernetes) | HashiCorp Vault HA + Raft with Kubernetes auth |
 | [devsecops-starter-kit](https://github.com/durrello/devsecops-starter-kit) | Drop-in pre-commit + Trivy + tfsec + checkov + gitleaks pipeline |
+| [platform-engineering-idp](https://github.com/durrello/platform-engineering-idp) | Internal Developer Platform — Backstage catalog + golden-path scaffolder |
+| [incident-response-runbooks](https://github.com/durrello/incident-response-runbooks) | SRE runbooks, SLO/error-budget framework, postmortem templates |
 
 > 📖 Read how they fit together: [Building an Interlinked DevOps Project Ecosystem](https://durrellgemuh.com/blog/building-an-interlinked-devops-project-ecosystem/)
 
