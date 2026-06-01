@@ -147,6 +147,24 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
 
 ---
 
+## 🚀 Featured Projects
+
+An interlinked ecosystem of open-source DevOps projects that compose into one platform
+lifecycle — provision → build → deliver → operate → secure.
+
+| Project | What it does |
+| --- | --- |
+| [terraform-aws-reference-architecture](https://github.com/durrello/terraform-aws-reference-architecture) | Progressive Terraform examples — single EC2 → full VPC + private RDS, CI-validated |
+| [gitops-kubernetes-platform](https://github.com/durrello/gitops-kubernetes-platform) | ArgoCD app-of-apps delivering Helm workloads to Kubernetes |
+| [cicd-pipeline-templates](https://github.com/durrello/cicd-pipeline-templates) | Reusable GitHub Actions (build/test/scan/sign/deploy) with cosign signing |
+| [observability-stack](https://github.com/durrello/observability-stack) | Prometheus + Grafana + Loki + Tempo + Alertmanager as code |
+| [vault-on-kubernetes](https://github.com/durrello/vault-on-kubernetes) | HashiCorp Vault HA + Raft with Kubernetes auth |
+| [devsecops-starter-kit](https://github.com/durrello/devsecops-starter-kit) | Drop-in pre-commit + Trivy + tfsec + checkov + gitleaks pipeline |
+
+> 📖 Read how they fit together: [Building an Interlinked DevOps Project Ecosystem](https://durrellgemuh.com/blog/building-an-interlinked-devops-project-ecosystem/)
+
+---
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -156,7 +174,7 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
 - [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [Read all 23+ articles on dev.to/durrello](https://dev.to/durrello)
+▶️ [Read all articles on durrellgemuh.com/blog](https://durrellgemuh.com/blog/) · also on [dev.to/durrello](https://dev.to/durrello)
 
 ---
 
