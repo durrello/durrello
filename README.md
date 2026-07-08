@@ -6,7 +6,7 @@ Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of 
 
 I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta — helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
 
-Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org/) and run **Talent Forge** — a mentorship program turning aspiring engineers into production-ready DevOps practitioners.
+Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org/) and run **Liora** — teaching Kubernetes, CI/CD, and Terraform to working engineers in France.
 
 <p align="center">
   <a href="https://durrellgemuh.com"><img src="https://img.shields.io/badge/-durrellgemuh.com-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -191,12 +191,12 @@ lifecycle — provision → build → deliver → operate → secure.
 
 ## 🌱 Currently Working On
 
-- 🏗️ **[NextGen Playground](http://nextgenplayground.org/)** — Learning platform for real-world DevOps experience
-- 🔥 **Talent Forge** — Hands-on mentorship program (20+ active learners)
+- 🏗️ **[NextGen Playground](http://nextgenplayground.org/)** — DevOps learning platform + hands-on mentorship (100+ mentored, 170+ enabled)
+- 🔍 **[WeFoundIt](https://wefoundit.space)** — Lost & found platform (FastAPI + React Native + Postgres, deployed on AWS)
 - ☁️ **AWS Community Builders** — Cloud Operations track contributor
+- 👨‍🏫 **[Liora](https://liora.dev)** — DevOps Instructor (Kubernetes, CI/CD, Terraform — France)
+- ✍️ **Technical Writing** — 42+ published articles on DevOps & cloud
 - 🎤 **Speaking & Events** — Kubernetes, CI/CD, cloud, and DevOps careers
-- ✍️ **Technical Writing** — 23+ published articles on DevOps & cloud
-- 👨‍🏫 **Liora** — DevOps Instructor & Mentor (France)
 
 ---
 
