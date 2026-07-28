@@ -178,12 +178,7 @@ lifecycle — provision → build → deliver → operate → secure.
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [GKE Gateway API: Full Setup &amp; Troubleshooting Runbook](https://dev.to/durrello/gke-gateway-api-full-setup-troubleshooting-runbook-145j)
-- [Deploying and Managing HashiCorp Vault in Kubernetes with HA and Raft Storage](https://dev.to/durrello/deploying-and-managing-hashicorp-vault-in-kubernetes-with-ha-and-raft-storage-np3)
-- [Building a Complete Monitoring Stack with Prometheus and Grafana using Docker](https://dev.to/durrello/building-a-complete-monitoring-stack-with-prometheus-and-grafana-using-docker-36h8)
-- [Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM](https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Building LogSentry: A Serverless AWS Pipeline That Detects Secrets Leaked into Application Logs in Real-Time](https://dev.to/durrello/building-logsentry-detecting-secrets-leaked-into-application-logs-4k5o)- [Build a Portable Development Playground with Vagrant and VirtualBox](https://dev.to/durrello/build-a-portable-development-playground-with-vagrant-and-virtualbox-3p90)- [Deploy Your Portfolio Website: GitHub Pages + Cloudflare Custom Domain](https://dev.to/durrello/deploy-your-devops-portfolio-website-github-pages-cloudflare-custom-domain-1gnj)- [GKE Gateway API: Full Setup &amp; Troubleshooting Runbook](https://dev.to/durrello/gke-gateway-api-full-setup-troubleshooting-runbook-145j)- [Getting Started with Amazon CloudWatch](https://dev.to/durrello/getting-started-with-amazon-cloudwatch-5cca)<!-- BLOG-POST-LIST:END -->
 
 ▶️ [Read all articles on durrellgemuh.com/blog](https://durrellgemuh.com/blog/) · also on [dev.to/durrello](https://dev.to/durrello)
 
