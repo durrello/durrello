@@ -186,7 +186,7 @@ lifecycle — provision → build → deliver → operate → secure.
 ## 🌱 Currently Working On
 
 - 🏗️ **[NextGen Playground](https://nextgenplayground.org/)**: DevOps learning platform + hands-on mentorship (127 engineers mentored, 38 placed in roles)
-- 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,284,000 FCFA revenue
+- 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,622,400 FCFA revenue
 - ☁️ **AWS Community Builders**: Cloud Operations track contributor
 - 👨‍🏫 **[Liora](https://liora.dev)**: DevOps Instructor (Kubernetes, CI/CD, Terraform, France)
 - ✍️ **Technical Writing**: 110+ published articles on DevOps & cloud
