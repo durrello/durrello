@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Infrastructure Engineer · AWS Community Builder · DevOps Educator**
 
-Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of hands-on DevOps experience — designing, automating, and operating production-grade infrastructure across AWS, GCP, and Azure. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
+Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of hands-on DevOps experience, designing, automating, and operating production-grade infrastructure across AWS and GCP. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
 
 I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta — helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
 
@@ -21,7 +21,7 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
 ## 🔧 What I Do
 
 ```text
-☁️  Cloud Infrastructure Engineering    ━━━━━━━━━━━━━━━━━━━━  AWS · GCP · Azure
+☁️  Cloud Infrastructure Engineering    ━━━━━━━━━━━━━━━━━━━━  AWS · GCP
 🚀  CI/CD Pipeline Automation           ━━━━━━━━━━━━━━━━━━━━  Jenkins · GitHub Actions · GitLab CI
 ⎈   Kubernetes & Containers             ━━━━━━━━━━━━━━━━━━━━  K8s · Docker · Helm · ArgoCD
 📊  Observability & Monitoring          ━━━━━━━━━━━━━━━━━━━━  Datadog · Prometheus · Grafana
@@ -61,7 +61,6 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
     <td>
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -87,7 +86,7 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -138,7 +137,7 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
     <td align="center">👨‍💻<br><b>170+</b><br>Devs Enabled</td>
   </tr>
   <tr>
-    <td align="center">🎓<br><b>100+</b><br>Students Mentored</td>
+    <td align="center">🎓<br><b>127</b><br>Engineers Mentored</td>
     <td align="center">📉<br><b>60%</b><br>Build Time Cut</td>
     <td align="center">⏱️<br><b>30min → 2min</b><br>MTTD Reduction</td>
     <td align="center">💸<br><b>70%</b><br>Cost Savings</td>
@@ -186,12 +185,12 @@ lifecycle — provision → build → deliver → operate → secure.
 
 ## 🌱 Currently Working On
 
-- 🏗️ **[NextGen Playground](http://nextgenplayground.org/)** — DevOps learning platform + hands-on mentorship (100+ mentored, 170+ enabled)
-- 🔍 **[WeFoundIt](https://wefoundit.space)** — Lost & found platform (FastAPI + React Native + Postgres, deployed on AWS)
-- ☁️ **AWS Community Builders** — Cloud Operations track contributor
-- 👨‍🏫 **[Liora](https://liora.dev)** — DevOps Instructor (Kubernetes, CI/CD, Terraform — France)
-- ✍️ **Technical Writing** — 42+ published articles on DevOps & cloud
-- 🎤 **Speaking & Events** — Kubernetes, CI/CD, cloud, and DevOps careers
+- 🏗️ **[NextGen Playground](https://nextgenplayground.org/)**: DevOps learning platform + hands-on mentorship (127 engineers mentored, 38 placed in roles)
+- 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,284,000 FCFA revenue
+- ☁️ **AWS Community Builders**: Cloud Operations track contributor
+- 👨‍🏫 **[Liora](https://liora.dev)**: DevOps Instructor (Kubernetes, CI/CD, Terraform, France)
+- ✍️ **Technical Writing**: 100+ published articles on DevOps & cloud
+- 🎤 **Speaking & Events**: Kubernetes, CI/CD, cloud, and DevOps careers
 
 ---
 
