@@ -189,7 +189,7 @@ lifecycle — provision → build → deliver → operate → secure.
 - 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,284,000 FCFA revenue
 - ☁️ **AWS Community Builders**: Cloud Operations track contributor
 - 👨‍🏫 **[Liora](https://liora.dev)**: DevOps Instructor (Kubernetes, CI/CD, Terraform, France)
-- ✍️ **Technical Writing**: 100+ published articles on DevOps & cloud
+- ✍️ **Technical Writing**: 110+ published articles on DevOps & cloud
 - 🎤 **Speaking & Events**: Kubernetes, CI/CD, cloud, and DevOps careers
 
 ---
