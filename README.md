@@ -2,7 +2,7 @@
 
 **DevOps & Cloud Infrastructure Engineer · AWS Community Builder · DevOps Educator**
 
-Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of hands-on DevOps experience, designing, automating, and operating production-grade infrastructure across AWS and GCP. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
+Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with hands-on DevOps experience designing, automating, and operating production-grade infrastructure across AWS and GCP. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
 
 I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta, helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
 
