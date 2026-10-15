@@ -4,9 +4,9 @@
 
 Multi-cloud DevOps Engineer based in 🇨🇲 **Cameroon** with **5+ years** of hands-on DevOps experience, designing, automating, and operating production-grade infrastructure across AWS and GCP. **Open to work**: full-time roles, consulting, and team training, remote worldwide.
 
-I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta — helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
+I've delivered infrastructure for organisations across 🇨🇲 Cameroon, 🇫🇷 France, 🇺🇸 USA, 🇨🇦 Canada, 🇩🇪 Germany, and 🇲🇹 Malta, helping teams cut deployment times, reduce cloud costs, and build platforms that scale reliably under real production load.
 
-Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org/) and run **Liora** — teaching Kubernetes, CI/CD, and Terraform to working engineers in France.
+Outside engineering, I founded [NextGen Playground](https://nextgenplayground.org/) and run **Liora**, teaching Kubernetes, CI/CD, and Terraform to working engineers in France.
 
 <p align="center">
   <a href="https://durrellgemuh.com"><img src="https://img.shields.io/badge/-durrellgemuh.com-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -155,12 +155,12 @@ Outside engineering, I founded [NextGen Playground](http://nextgenplayground.org
 ## 🚀 Featured Projects
 
 An interlinked ecosystem of open-source DevOps projects that compose into one platform
-lifecycle — provision → build → deliver → operate → secure.
+lifecycle: provision, build, deliver, operate, secure.
 
 | Project | What it does |
 | --- | --- |
-| [terraform-aws-reference-architecture](https://github.com/durrello/terraform-aws-reference-architecture) | Progressive Terraform examples — single EC2 → full VPC + private RDS, CI-validated |
-| [gcp-landing-zone-terraform](https://github.com/durrello/gcp-landing-zone-terraform) | Production GCP landing zone — folders, shared VPC, Cloud NAT, org policies |
+| [terraform-aws-reference-architecture](https://github.com/durrello/terraform-aws-reference-architecture) | Progressive Terraform examples, single EC2 to full VPC + private RDS, CI-validated |
+| [gcp-landing-zone-terraform](https://github.com/durrello/gcp-landing-zone-terraform) | Production GCP landing zone: folders, shared VPC, Cloud NAT, org policies |
 | [aws-multi-account-organization](https://github.com/durrello/aws-multi-account-organization) | AWS Organizations, OUs, SCP guardrails, centralized CloudTrail |
 | [gitops-kubernetes-platform](https://github.com/durrello/gitops-kubernetes-platform) | ArgoCD app-of-apps delivering Helm workloads to Kubernetes |
 | [cicd-pipeline-templates](https://github.com/durrello/cicd-pipeline-templates) | Reusable GitHub Actions (build/test/scan/sign/deploy) with cosign signing |
@@ -168,7 +168,7 @@ lifecycle — provision → build → deliver → operate → secure.
 | [kubernetes-monitoring-helm-chart](https://github.com/durrello/kubernetes-monitoring-helm-chart) | Helm chart shipping an app with ServiceMonitor + alerts |
 | [vault-on-kubernetes](https://github.com/durrello/vault-on-kubernetes) | HashiCorp Vault HA + Raft with Kubernetes auth |
 | [devsecops-starter-kit](https://github.com/durrello/devsecops-starter-kit) | Drop-in pre-commit + Trivy + tfsec + checkov + gitleaks pipeline |
-| [platform-engineering-idp](https://github.com/durrello/platform-engineering-idp) | Internal Developer Platform — Backstage catalog + golden-path scaffolder |
+| [platform-engineering-idp](https://github.com/durrello/platform-engineering-idp) | Internal Developer Platform: Backstage catalog + golden-path scaffolder |
 | [incident-response-runbooks](https://github.com/durrello/incident-response-runbooks) | SRE runbooks, SLO/error-budget framework, postmortem templates |
 
 > 📖 Read how they fit together: [Building an Interlinked DevOps Project Ecosystem](https://durrellgemuh.com/blog/building-an-interlinked-devops-project-ecosystem/)
@@ -186,10 +186,10 @@ lifecycle — provision → build → deliver → operate → secure.
 ## 🌱 Currently Working On
 
 - 🏗️ **[NextGen Playground](https://nextgenplayground.org/)**: DevOps learning platform + hands-on mentorship (127 engineers mentored, 38 placed in roles)
-- 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,622,400 FCFA revenue
+- 🔍 **[WeFoundIt](https://wefoundit.space)**: lost & found platform, web first then on both app stores (FastAPI + React web + Flutter + Postgres on AWS); 1,480 users, 1,641,000 FCFA revenue
 - ☁️ **AWS Community Builders**: Cloud Operations track contributor
 - 👨‍🏫 **[Liora](https://liora.dev)**: DevOps Instructor (Kubernetes, CI/CD, Terraform, France)
-- ✍️ **Technical Writing**: 80 published articles on DevOps & cloud (31 also on dev.to)
+- ✍️ **Technical Writing**: 80 published articles on DevOps & cloud (31 also on DEV)
 - 🎤 **Speaking & Events**: Kubernetes, CI/CD, cloud, and DevOps careers
 
 ---
